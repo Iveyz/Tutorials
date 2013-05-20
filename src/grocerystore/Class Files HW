@@ -1,0 +1,18 @@
+Create a Cashier class with the following class members:
+
+Name
+Age
+Years worked
+
+The class constructor should demand arguments for name and age,
+and when the constructor is called, the years worked member should be set to 0.
+
+There should be methods to set and get the name/age, a method to increment the years worked by 1,
+and a method to get the years worked. Make sure you test out the methods and whatnot in the main class like I did
+with the Fruit
+
+thats pretty well it i cant really give you 'bonus' shit on this
+sure
+it can be a bit tricky to get going
+i'll give myself access to the git too so i can track your progress
+do you have a Github account? ok
