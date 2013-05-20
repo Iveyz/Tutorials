@@ -1,0 +1,23 @@
+File management
+
+#1.
+
+Prompt the user for 4 lines of data,
+and write it to a file with the name of their choosing,
+to the desktop. (hint: declaring the file using the string will require concatenation)
+
+#2.
+
+Read from a file on the desktop called data.txt, which contains 10 sentences on separate lines
+Store all the lines in an array, and print out all of them in alphabetical order
+by the first letter of each line.
+
+#3.
+
+Prompt the user for a file name, and if the file already exists on the desktop, notify them,
+and tell them to choose another file name.
+Otherwise, ask them what they want written to this new file. After that, they must be able to
+ALTER what is in the file. As in, before the program closes you should print back to them
+what was written to file, and ask them if they want something else written to the file instead.
+
+(Hint: you will need to make use of the file.delete() method)
