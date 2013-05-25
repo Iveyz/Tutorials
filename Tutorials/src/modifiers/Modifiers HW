@@ -1,0 +1,17 @@
+1.
+
+Write several private variables and methods inside Employee. Be creative!
+Make sure to incorporate the methods and variables as well (actually use them)
+
+2.
+
+Create a static 'uniform' String in the Store class for the uniform that the employees should
+be wearing. 
+Write a method inside the Employee class that prints out the following:
+<cashier name> " is wearing " <uniform>
+Note: The static variable should be public, so that it can be accessed elsewhere.
+
+3.
+
+Make the uniform variable final.
+Read over final class notes again.
