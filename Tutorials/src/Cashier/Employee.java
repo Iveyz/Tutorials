@@ -8,7 +8,7 @@ public class Employee {
     private String hairColor;
     private String jeffreyHeightFeet;
     private String jeffreyHeightInches;
-    public String uniform;
+    public static String uniform;
     
     public Employee(String newName, int newAge, int newYearsWorked){
         
@@ -56,7 +56,7 @@ public class Employee {
     }
     public void cashierUniform() {
         //uniform = uniformNew;
-        System.out.println(name + " is wearing " + uniform);
+        System.out.println(name + " is wearing " + Store.uniform);
     }
         
 }

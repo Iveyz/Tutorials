@@ -20,7 +20,7 @@ public class Store {
     }
     
     //public static String uniform = "Blue shirt and Black Pants";
-    public static String uniform = "Blue Shirt and Black Pants";
+    public final static String uniform = "Blue Shirt and Black Pants";
 }
     
 
